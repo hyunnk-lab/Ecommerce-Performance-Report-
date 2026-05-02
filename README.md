@@ -29,7 +29,7 @@
       <h1 align="center">Executive Summary</h1>
       <h3 align="center">Sales Revenue Analysis (2019–2022)</h3>
       <div align="center">
-        <img width="1000" alt="Sales revenue graph from 2019 to 2022" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739861326/TechSphere_Sales_Rev_CamilingJS" />
+        <img width="1000" alt="Sales revenue graph from 2019 to 2022" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777709041/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1454_qcn3za.png" />
       </div>
       <td width="460" valign="top">
         <ol>
@@ -67,20 +67,20 @@
 <h2 align="center">Dataset Structure and ERD (Entity relationship diagram)</h2>
 <body>The database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 10,8127 records.</body>
 <div align="center">
-  <img width="680" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739423466/TechSphere_ERD_CamilingJS">
+  <img width="680" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777709938/ChatGPT_Image_2026%EB%85%84_5%EC%9B%94_2%EC%9D%BC_%EC%98%A4%ED%9B%84_04_14_09_bwp555.png">
 </div>
 <h1 align="center">Insights Deep-Dive</h1>
 <table align="center">
   <tr>
     <h1 align="center">Sales Trend</h1>
     <td width="1000">
-      <img width="300" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739895398/Sales_Line_Graph_wnql3v">
+      <img width="300" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777710176/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1466_hldnbq.png">
     </td>
     <td width="1000">
-      <img width="300" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739896683/AOV_Line_Graph_CamilingJS">
+      <img width="300" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777710184/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1468_mte9bm.png">
     </td>
     <td width="1000">
-      <img width="300" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739894907/Num_of_Orders_mfx5ap">
+      <img width="300" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777710176/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1466_hldnbq.png">
     </td>
   </tr>
 </table>
@@ -148,7 +148,7 @@
         <strong>Sales Growth follows seasonal fluctuations, while AOV remains relatively constant, except for the Sales Growth in October 2022</strong>
       </h4>
       <td>
-        <img width="900" alt="Sales Growth vs. AOV Growth" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1741247711/Sales_and_AOV_Growth_MOY_CamilingJS" />
+        <img width="900" alt="Sales Growth vs. AOV Growth" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777709182/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1464_rnq7zb.png" />
       </td>
     </tr>
   </table>
@@ -158,7 +158,7 @@
      <h1 align="center">Product Performance</h1>
       <div align="center">
         <h3>Product Sales Surged in 2020 but were not Sustained at High Levels</h3>
-        <img width="1000" alt="Product sales graph from 2019 to 2022" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740121052/Product_Sales_Line_Graph_CamilingJS" />
+        <img width="1000" alt="Product sales graph from 2019 to 2022" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777709104/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1458_isstwe.png" />
       </div>
     <tr>
   </tr>
@@ -198,11 +198,11 @@
     <tr align="center">
       <td width="1000" valign="top">
       <h3>AOV Over Time (2019-2022)</h3>
-      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740156855/AOV_Products_BarGraph_CamilingJS">
+      <img width="450" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777709113/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1459_ov9jz3.png">
     </td>
     <td width="1000">
       <h3>Product Sales Heat Map by Quarter</h3>
-      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740646006/Sales_Heatmap_CamilingJS">
+      <img width="450" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777709143/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1460_dequyq.png">
     </td>
   </tr>
 </table>
@@ -216,11 +216,11 @@
     <tr align="center">
       <td width="1000">
       <h3>Average Order Value by Loyalty Status</h3>
-      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740552359/AOV_by_Loyalty_Status_Camiling">
+      <img width="450" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777709154/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1461_n6tj2m.png">
     </td>
     <td width="1000">
       <h3>Number of Orders by Loyalty Status</h3>
-      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1742758110/OrderCount_by_Loyalty_Status_Camiling.png">
+      <img width="450" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777709162/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1462_y9ex4p.png">
     </td>
   </tr>
 </table>
@@ -244,7 +244,7 @@
     <td width="500">
        <div valign="top" align="center">
       <h3>Refund Rate per Product Type</h3>
-      <img alt="Refund heat map of products" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740637891/Refund_Rates_Per_Product_Heatmap_CamilingJS" />
+      <img alt="Refund heat map of products" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777709174/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1463_gt2wjw.png" />
     </div>
     </td>
     <td valign="top" width="500">
@@ -261,7 +261,7 @@
 <table align="center">
   <h1 align="center">Regional Results</h1>
       <div align="center">
-        <img width="1000" alt="Sales by region" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1743795515/Regional_Barbel_Graph_CamilingJS" />
+        <img width="1000" alt="Sales by region" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777709189/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1465_xkeyxq.png" />
       </div>
   <tr valign="top">
      <td width="900">
