@@ -74,13 +74,13 @@
   <tr>
     <h1 align="center">Sales Trend</h1>
     <td width="1000">
-      <img width="300" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777710176/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1466_hldnbq.png">
+      <img width="300" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777712716/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1481_ueyykr.png">
     </td>
     <td width="1000">
-      <img width="300" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777710184/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1468_mte9bm.png">
+      <img width="300" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777712839/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1482_hyminu.png">
     </td>
     <td width="1000">
-      <img width="300" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777710176/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1466_hldnbq.png">
+      <img width="300" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777712537/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1480_waugp9.png">
     </td>
   </tr>
 </table>
@@ -148,7 +148,7 @@
         <strong>Sales Growth follows seasonal fluctuations, while AOV remains relatively constant, except for the Sales Growth in October 2022</strong>
       </h4>
       <td>
-        <img width="900" alt="Sales Growth vs. AOV Growth" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777709182/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1464_rnq7zb.png" />
+        <img width="900" alt="Sales Growth vs. AOV Growth" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777712188/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1477_c6guio.png" />
       </td>
     </tr>
   </table>
@@ -198,7 +198,7 @@
     <tr align="center">
       <td width="1000" valign="top">
       <h3>AOV Over Time (2019-2022)</h3>
-      <img width="450" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777709113/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1459_ov9jz3.png">
+      <img width="450" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777711895/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1475_jbojzd.png">
     </td>
     <td width="1000">
       <h3>Product Sales Heat Map by Quarter</h3>
@@ -216,11 +216,11 @@
     <tr align="center">
       <td width="1000">
       <h3>Average Order Value by Loyalty Status</h3>
-      <img width="450" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777709154/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1461_n6tj2m.png">
+      <img width="450" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777711076/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1471_acej9s.png">
     </td>
     <td width="1000">
       <h3>Number of Orders by Loyalty Status</h3>
-      <img width="450" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777709162/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1462_y9ex4p.png">
+      <img width="450" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777711404/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1472_b5hasi.png">
     </td>
   </tr>
 </table>
