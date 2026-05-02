@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="320px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739421238/TechShere_Logo_CamilingJS" />
+  <img width="320px" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777713214/ChatGPT_Image_2026%EB%85%84_5%EC%9B%94_2%EC%9D%BC_%EC%98%A4%ED%9B%84_06_13_00_pgw88c.png" />
 </div>
 <h1 align="center">Ecommerce Performance Report</h1>
 <table align="center">
@@ -7,10 +7,10 @@
     <td width="1440">
       <h2 align="center">Client Background</h2>
       <body>
-        <strong>TechSphere</strong> is a US-based e-commerce company that sells popular consumer electronics and accessories to a global clientele. Established in 2018, the company has grown and expanded in the last few years, it has encountered increasing competition from peer companies as well as unique challenges and opportunities brought on by the COVID-19 pandemic. <br>
+        <strong>NexaSphere</strong> is a US-based e-commerce company that sells popular consumer electronics and accessories to a global clientele. Established in 2018, the company has grown and expanded in the last few years, it has encountered increasing competition from peer companies as well as unique challenges and opportunities brought on by the COVID-19 pandemic. <br>
         <br>
-        <strong>TechSphere's</strong> book of business is approaching <strong>88,000</strong> customers and possesses over <strong>108,000</strong> transactions, generating sales revenue exceeding <strong>$28 million</strong>. The available eCommerce data spans various dimensions and metrics, including sales, products, sales by regions, and the company's loyalty program. <br>
-        <br>Reporting to the Head of Operations, an in-depth analysis was conducted to evaluate <strong>TechSphere’s</strong> performance over the past several years (2019–2022). This comprehensive review provides valuable insights that internal cross-functional teams will utilize to streamline processes and enhance <strong>TechSphere’s</strong> commercial performance. The key insights and recommendations focus on the following areas:
+        <strong>NexaSphere's</strong> book of business is approaching <strong>88,000</strong> customers and possesses over <strong>108,000</strong> transactions, generating sales revenue exceeding <strong>$28 million</strong>. The available eCommerce data spans various dimensions and metrics, including sales, products, sales by regions, and the company's loyalty program. <br>
+        <br>Reporting to the Head of Operations, an in-depth analysis was conducted to evaluate <strong>NexaSphere’s</strong> performance over the past several years (2019–2022). This comprehensive review provides valuable insights that internal cross-functional teams will utilize to streamline processes and enhance <strong>NexaSphere’s</strong> commercial performance. The key insights and recommendations focus on the following areas:
       </body>
       <h3>Northstar Metrics</h3>
       <h4>
