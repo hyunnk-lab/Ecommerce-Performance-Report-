@@ -261,12 +261,12 @@
 <table align="center">
   <h1 align="center">Regional Results</h1>
       <div align="center">
-        <img width="1000" alt="Sales by region" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777709189/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1465_xkeyxq.png" />
+        <img width="1000" alt="Sales by region" src="https://res.cloudinary.com/dysnnptit/image/upload/q_auto/f_auto/v1777729587/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_1484_lyjpis.png" />
       </div>
   <tr valign="top">
      <td width="900">
       <ul>
-        <li>The North American region contributes the most to sales revenue for each TechSphere product.</li>
+        <li>The North American region contributes the most to sales revenue for each NexaSphere product.</li>
           <ul>
             <li>An average of 52% of total sales per product.</li>
             <li>$2.7 million in 2022.</li>
@@ -295,7 +295,7 @@
 <!-- <table>
   <tr>
     <td width="700" border="0"><h1>Recommendations</h1>
-    <h4>Based on the uncovered insights, here are actionable items that TechSphere can take away from our analysis.</h4></td>
+    <h4>Based on the uncovered insights, here are actionable items that NexaSphere can take away from our analysis.</h4></td>
     <td width="400" border="0"><div align="right">
       <img width="192" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739421238/TechShere_Logo_CamilingJS" />
     </div></td>
@@ -303,7 +303,7 @@
 </table> -->
 <table align="center">
     <h1>Recommendations</h1>
-    <h4>Based on the uncovered insights, here are actionable items that TechSphere can take away from our analysis.</h4>
+    <h4>Based on the uncovered insights, here are actionable items that NexaSphere can take away from our analysis.</h4>
       <ul>
         <h3>Sales</h3>
         <li>Remedy sales lows due to seasonal fluctuations in January and February by increasing marketing campaigns during these low-sales periods.</li>
@@ -331,7 +331,7 @@
           <ul><li>Macbook Air Laptops had an average return rate of 14% from 2019 to 2021.</li>
           <li>Thinkpad Laptops also had an average return rate of 14% from 2019 to 2021.</li></ul>
         <h3>Regions</h3>
-        <li>Maximize market share in North America, as this region dominates sales across all TechSphere products.</li>
+        <li>Maximize market share in North America, as this region dominates sales across all NexaSphere products.</li>
           <ul><li>52% of product sales were in the North American region.</li></ul>
         <li>Diversify the portfolio in the Latin American region by expanding localized product offerings, sales channels, and market reach to increase sales revenue and purchase orders.</li>
           <ul><li>Only 6% of product sales were in the Latin American region.</li></ul>
